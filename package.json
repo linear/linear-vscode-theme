@@ -1,0 +1,49 @@
+{
+  "name": "linear-app-theme",
+  "description": "A modern VSCode theme inspired by Linear.app",
+  "version": "1.1.0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linear/linear-vscode-theme/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Linear Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/linear-dark.json"
+      },
+      {
+        "label": "Linear Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/linear-midnight.json"
+      },
+      {
+        "label": "Linear Light",
+        "uiTheme": "vs",
+        "path": "./themes/linear-light.json"
+      }
+    ]
+  },
+  "displayName": "Linear.app Theme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "dark theme",
+    "light theme",
+    "linear",
+    "midnight",
+    "minimal",
+    "modern"
+  ],
+  "publisher": "linear-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linear/linear-vscode-theme.git"
+  }
+}
