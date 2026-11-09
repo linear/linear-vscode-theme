@@ -18,7 +18,7 @@ your control. No Linear account or additional extension is needed.
 
 ## Install
 
-Find [Linear.app Theme in the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=linear-app.linear-app-theme),
+Find [Linear Theme in the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=linear-app.linear-app-theme),
 or open **Extensions** in VS Code and search for `@id:linear-app.linear-app-theme`. Check that the publisher is
 **Linear**, then select **Install**.
 
